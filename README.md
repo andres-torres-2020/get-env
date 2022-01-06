@@ -1,7 +1,7 @@
 # get-env
 List application environment
 
-## Installation instructions
+## Installation Instructions
 
 None yet.
 
